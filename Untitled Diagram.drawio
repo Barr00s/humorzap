@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-27T18:17:01.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="z0KoVLuQzhKdzzFKr9Ch" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-27T18:24:15.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="eZjjW2N0A5f536NHl0OU" version="14.5.1" type="github">
   <diagram id="MnMrtY8RmelI457AY4ro" name="Page-1">
     <mxGraphModel dx="2171" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,10 +59,22 @@
           <mxGeometry y="26" width="170" height="104" as="geometry" />
         </mxCell>
         <mxCell id="kUu_N7K0nAC1JSOvuFyh-8" value="biarticulado:Onibus" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="80" width="140" height="150" as="geometry" />
+          <mxGeometry x="-240" y="80" width="160" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="kUu_N7K0nAC1JSOvuFyh-9" value="+modelo: B340M&#xa;+anoFabricado: 2019&#xa;+cor: vermelho&#xa;+possuiPneuExtra: Não&#xa;+tipoDeCombustivel: Dissel&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="kUu_N7K0nAC1JSOvuFyh-8">
-          <mxGeometry y="26" width="140" height="124" as="geometry" />
+        <mxCell id="kUu_N7K0nAC1JSOvuFyh-9" value="+modelo: B340M&#xa;+anoFabricado: 2019&#xa;+cor: vermelho&#xa;+possuiPneuExtra: Não&#xa;+velocidadeMaxima: 80km/&#xa;+tipoDeCombustivel: Dissel&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="kUu_N7K0nAC1JSOvuFyh-8">
+          <mxGeometry y="26" width="160" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="kUu_N7K0nAC1JSOvuFyh-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.006;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="Ei1TAbHR1JayrTPPddgg-4" target="Ei1TAbHR1JayrTPPddgg-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUu_N7K0nAC1JSOvuFyh-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.018;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="Ei1TAbHR1JayrTPPddgg-2" target="Ei1TAbHR1JayrTPPddgg-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUu_N7K0nAC1JSOvuFyh-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.012;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="kUu_N7K0nAC1JSOvuFyh-5" target="Ei1TAbHR1JayrTPPddgg-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUu_N7K0nAC1JSOvuFyh-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.012;entryY=1.063;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="kUu_N7K0nAC1JSOvuFyh-9" target="Ei1TAbHR1JayrTPPddgg-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
