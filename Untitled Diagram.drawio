@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T19:37:13.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.75" etag="Csx--orYDJV2aeY7YDwK" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T19:42:15.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.75" etag="YJgMZeTqbqUcNMFB1OVE" version="14.5.8" type="github">
   <diagram id="MnMrtY8RmelI457AY4ro" name="Page-1">
     <mxGraphModel dx="1344" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -171,6 +171,12 @@
         </mxCell>
         <mxCell id="2a_u3-2WIpwdomfECygh-55" value="-nome: Homer Simpson&#xa;-fone: 41 99999-9999&#xa;-idade: 39 anos&#xa;-matriculaCREA: 111.111.111-10&#xa;+Experiencia: 10 anos &#xa;+jáSofreuAcidente: sim&#xa;+tempoParaDescontaminação: 5min&#xa;-cargo: Inspetor De segurança&#xa;-salário:  2mil&#xa;-oferecePlanoDeSaude: não&#xa;+éCalmo: não&#xa;+sabeManusearOKit: não&#xa;+temPrecisão: não" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2a_u3-2WIpwdomfECygh-54">
           <mxGeometry y="26" width="250" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="2a_u3-2WIpwdomfECygh-63" value="Abelardo Barbosa: Engenheiro Eolico" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="620" y="790" width="210" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="2a_u3-2WIpwdomfECygh-64" value="-nome: Abelardo Barbosa&#xa;-fone: 41 99847-7845&#xa;-idade: 28 anos&#xa;-matriculaCREA: 556.656.342-22&#xa;+MoraPerto: sim&#xa;-JáLidouEmEmergencias: não&#xa;+numDeColegasDeTrabalho: 2&#xa;-cargo: manutenção&#xa;-salário:  8mil&#xa;-oferecePlanoDeSaude: sim&#xa;+éCalmo: sim&#xa;+sabeManusearOKit: não&#xa;+temPrecisão: sim " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2a_u3-2WIpwdomfECygh-63">
+          <mxGeometry y="26" width="210" height="214" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
