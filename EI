@@ -1,1 +1,147 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T18:32:05.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" version="14.6.6" etag="w0JaZucsY3q2G5WT6lOk" type="github"><diagram id="vOe3DtgvOewlBIkYlqjy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-03T19:28:44.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="BxxDgn3l2RbIA0R-8mmV" version="14.6.6" type="github">
+  <diagram id="vOe3DtgvOewlBIkYlqjy" name="Page-1">
+    <mxGraphModel dx="2580" dy="1577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Yg3UYV_OOV61wuIhir__-12" value="Coloca a senha&lt;br&gt;(opcional)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="351" y="519" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-13" value="Liga o Celular" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="351" y="455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-14" value="Abre a rede social" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="351" y="583" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-15" value="Deita na Cama" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="351" y="391" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-16" value="Conversa com amigos" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="351" y="647" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-17" value="Curte fotos" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="351" y="711" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-18" value="Compartilha conteudo" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="351" y="775" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-20" value="&lt;b&gt;N. vezes&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="556" y="731" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="Yg3UYV_OOV61wuIhir__-21" target="Yg3UYV_OOV61wuIhir__-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="554" y="869" />
+              <mxPoint x="554" y="613" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-21" value="Fecha a rede social" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="351" y="839" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-23" value="Desliga o Celular" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="351" y="903" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-24" value="Dorme" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="351" y="967" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-26" value="" style="endArrow=classic;html=1;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="332" y="392" as="sourcePoint" />
+            <mxPoint x="332" y="1028" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-28" value="Escolhe um horário que deseja dormir&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFB60A;" vertex="1" parent="1">
+          <mxGeometry x="731" y="455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-29" value="Aplicativo manda notificações de dicas de como melhorar o sono" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFB60A;" vertex="1" parent="1">
+          <mxGeometry x="731" y="519" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-30" value="Deita na cama&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="731" y="583" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-31" value="Coloca a senha&lt;br&gt;(opcional)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="729" y="391" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-32" value="Abre a rede social" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="731" y="647" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-33" value="Conversa com amigos" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="731" y="711" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-34" value="Curte fotos" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="731" y="775" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="Yg3UYV_OOV61wuIhir__-35" target="Yg3UYV_OOV61wuIhir__-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-35" value="Compartilha conteudo" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="731" y="839" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="Yg3UYV_OOV61wuIhir__-37" target="Yg3UYV_OOV61wuIhir__-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-37" value="Horario &lt;br&gt;definido pelo&lt;br&gt;usuario" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#000000;fillColor=#FFB60A;" vertex="1" parent="1">
+          <mxGeometry x="892" y="903" width="119" height="98.6" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-38" value="Bloqueia as redes sociais" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFB60A;" vertex="1" parent="1">
+          <mxGeometry x="731" y="1007" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-39" value="Desliga o celular&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="731" y="1071" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-40" value="Dorme" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="731" y="1135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-43" value="" style="endArrow=classic;html=1;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="718" y="328" as="sourcePoint" />
+            <mxPoint x="718" y="1199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-50" value="Liga o Celular" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="730" y="327" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-51" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 68px&quot;&gt;Insonia&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=7;" vertex="1" parent="1">
+          <mxGeometry x="220" y="230" width="692" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-53" value="Coloca a senha&lt;br&gt;(opcional)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="1725" y="421" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-54" value="Liga o Celular" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="1725" y="357" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-56" value="Informa o aplicativo de seus compromissos" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFB60A;" vertex="1" parent="1">
+          <mxGeometry x="1725" y="485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="Yg3UYV_OOV61wuIhir__-57" target="Yg3UYV_OOV61wuIhir__-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-57" value="Abre a rede social" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFDE08;" vertex="1" parent="1">
+          <mxGeometry x="1725" y="549" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="Yg3UYV_OOV61wuIhir__-58" target="Yg3UYV_OOV61wuIhir__-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-58" value="Aplicativo &lt;br&gt;bloqueia&lt;br&gt;as redes &lt;br&gt;sociais" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#000000;fillColor=#FFB60A;" vertex="1" parent="1">
+          <mxGeometry x="1862" y="612.4" width="119" height="98.6" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-60" value="Informa o aplicativo que concluiu seu compromisso&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFB60A;" vertex="1" parent="1">
+          <mxGeometry x="1725" y="715" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-63" value="Aplicativo desbloqueia as redes sociais" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFB60A;" vertex="1" parent="1">
+          <mxGeometry x="1725" y="779" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-64" value="" style="endArrow=classic;html=1;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1709" y="365" as="sourcePoint" />
+            <mxPoint x="1709" y="848" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yg3UYV_OOV61wuIhir__-65" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 68px&quot;&gt;Procrastinação&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=7;" vertex="1" parent="1">
+          <mxGeometry x="1443" y="249" width="692" height="102" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
